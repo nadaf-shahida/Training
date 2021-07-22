@@ -1,0 +1,24 @@
+{
+    "User":[
+        {
+            "id":1,
+            "name":"shahida",
+            "email":"shahida@gmail.com",
+            "password":"shahida@12345",
+            "mobile":1111111111
+
+        }
+    ],
+    "Admin":[
+        {
+            "id":1,
+            "name":"shahida",
+            "email":"Sn@gmail.com",
+            "password":"shahida@12345",
+            "mobile":1111111111
+
+
+
+        }
+    ]
+}
